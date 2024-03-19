@@ -1,6 +1,6 @@
 {
   "name": "ahmad-simple-calculator",
-  "version": "2.0.3",
+  "version": "2.0.2",
   "description": "A simple-calculator with TypeScript, Node.js and Inquirer",
   "main": "index.js",
   "type": "module",
