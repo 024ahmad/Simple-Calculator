@@ -14,7 +14,7 @@ const answer = await inquirer.prompt([
     choices: ["Addition","Subtraction","Multiplication","Division","Modulus","Exponentiation"]
   },
 ]);
-s
+
 if (answer.operator === "Addition") {
     console.log (answer.firstNumber + answer.secondNumber)
 } else if (answer.operator === "Subtraction") {
